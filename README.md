@@ -1,7 +1,7 @@
 # kalman_filters
 visualization of Kalman Filters.
 
-linear  |   non-linear  
+linear  |   non-linear(EKF)  
 ----- | -----
-![kjdfliuse](kalman(linear).gif) | ![non linear kalman](kalman(non-linear).gif)
+![linear](kalman(linear).gif) | ![non linear kalman](kalman(non-linear).gif)
 
