@@ -1,4 +1,5 @@
 # kalman_filters
 visualization of Kalman Filters.
 
-![kjdfliuse](kalman(linear).gif)
+linear | non-linear
+![kjdfliuse](kalman(linear).gif) ![non linear kalman](kalman(non-linear).gif)
